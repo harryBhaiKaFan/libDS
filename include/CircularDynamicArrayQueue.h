@@ -1,0 +1,4 @@
+#ifndef __DS420_CircularDynamicArrayQueue__
+#define __DS420_CircularDynamicArrayQueue__
+
+#endif
